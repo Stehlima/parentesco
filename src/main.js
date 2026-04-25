@@ -35,7 +35,7 @@ const meterCircle = document.querySelector('.meter');
 async function loadModels() {
   try {
     loader.classList.remove('hidden');
-    const MODEL_URL = '/models';
+    const MODEL_URL = `${import.meta.env.BASE_URL}models`;
     
     await Promise.all([
       faceapi.nets.ssdMobilenetv1.loadFromUri(MODEL_URL),
