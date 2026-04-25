@@ -60,24 +60,6 @@ O **AncestryLens** é uma ferramenta web que utiliza **inteligência artificial 
 
 ---
 
-## 💻 Rodar Localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/Stehlima/parentesco.git
-
-# Entre na pasta
-cd parentesco
-
-# Instale as dependências
-npm install
-
-# Inicie o servidor de desenvolvimento
-npm run dev
-```
-
----
-
 ## 👩‍💻 Desenvolvedora
 
 **Stephany Lima de Mattos**
