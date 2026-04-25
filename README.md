@@ -67,5 +67,5 @@ O **AncestryLens** é uma ferramenta web que utiliza **inteligência artificial 
 ---
 
 <p align="center">
-  <sub>Feito com 💙 e inteligência artificial | 2026</sub>
+  <sub>Feito com 💙 | 2026</sub>
 </p>
